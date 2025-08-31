@@ -1,0 +1,7 @@
+{
+  "name": "Bill Scanner App",
+  "description": "An application to scan or upload receipts, extract details using AI, and export the data to Excel. It features camera scanning, file uploads (image/PDF), and receipt history management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
